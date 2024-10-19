@@ -10,7 +10,7 @@ const HomePage = () => {
   return (
     <div className="text-center">
       <h2 className="text-emerald-400 text-2xl">
-        Welcome to the Next.js Home page
+        Welcome to the Next.js Home pages
       </h2>
 
       <button
