@@ -1,5 +1,5 @@
+import Counter from "@/app/components/Counter";
 import React from "react";
-import Counter from "../components/Counter";
 
 const CounterPages = () => {
   console.log("counter");
